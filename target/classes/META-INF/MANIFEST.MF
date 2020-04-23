@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: andy
+Build-Jdk: 12
+Implementation-Title: microservice-discovery-eureka-ha
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.it.cloud
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/microservice-discovery-eureka-ha
+Created-By: Maven Integration for Eclipse
+
